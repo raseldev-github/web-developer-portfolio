@@ -130,4 +130,17 @@ main{
 }
    /* what i do section */
 
-   
+   .about-heading{
+        text-align:center;
+        font-size: 30px;
+   }
+   .para{
+    text-align:center;
+    padding:40px 150px; 
+   }
+   #about-section{
+     
+   }
+   .skills-container{
+    display: flex;
+   }
