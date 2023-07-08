@@ -9,6 +9,7 @@ nav{
    display:flex;
    justify-content: space-between;
    align-items: center;
+   margin: 0px 170px;
 }
 .nav-title{
     color:#181818;
@@ -45,3 +46,16 @@ nav a {
      text-decoration: none;
      color: #474747;
 }
+  /* header related style`  */
+  .head{
+       background-color: #FFF8F3;
+  }
+  .banner{
+         padding: 30px 30px 30px 150px;
+         display: flex;
+         align-items: center;
+  }
+  .banner .banner-img{
+        width:450px;
+
+  }
