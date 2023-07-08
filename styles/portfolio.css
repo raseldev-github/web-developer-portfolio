@@ -206,9 +206,30 @@ line-height: normal;
          padding:130px 200px ;
          margin-top:100px;
          margin-bottom: 100px;
+         gap:100px;
          
       }
       .footer-container{
          display: flex;
          justify-content: space-around;
+      }
+      .footer-coloumn a{
+              margin-right:15px;
+      }
+      .formm input, textarea{
+          display: block;
+          margin-bottom:25px;
+          padding:15px 35px;
+          color:#757575;
+          border-radius: 5px;
+          background-color: #fff;
+          border:0;
+          width:100%;
+
+
+      }
+      textarea{
+         max-width:600px;
+         min-height:200px;
+         min-width:400px;
       }
